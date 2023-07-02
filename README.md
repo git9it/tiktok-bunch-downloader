@@ -15,6 +15,6 @@ Add TikTok video URLs to the input.txt file.
 Run the script:
 
 ```bash
-node index.js
+node start.js
 ```
 The downloaded files will appear in the download directory.
