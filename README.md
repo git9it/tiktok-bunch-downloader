@@ -11,8 +11,9 @@ npm install
 
 ---
 ## How to use
-    Add TikTok video URLs to the input.txt file.
-    Run the script:
+Add TikTok video URLs to the input.txt file.
+Run the script:
+
 ```bash
 node index.js
 ```
